@@ -1,0 +1,21 @@
+<style>
+  .root { flex-direction: column; align-items: center; width: 380; padding-top: 34; padding-bottom: 32; padding-left: 36; padding-right: 36; background-color: #FBF7F0; border-radius: 22; border-width: 2; border-color: #2B2A33; }
+  .title { color: #2B2A33; font-family: poppins; font-size: 34; font-weight: 700; text-align: center; }
+  .stats { flex-direction: row; align-items: center; justify-content: center; gap: 22; margin-top: 22; }
+  .stat { flex-direction: column; align-items: center; justify-content: center; width: 130; padding-top: 16; padding-bottom: 14; border-radius: 20; border-width: 2; border-color: #2B2A33; }
+  .num { color: #2B2A33; font-family: poppins; font-size: 64; font-weight: 700; line-height: 1; }
+  .cap { color: #2B2A33; font-family: nunito; font-size: 17; font-weight: 700; margin-top: 4; }
+  .primary { flex-direction: column; align-items: center; width: 100%; margin-top: 26; padding-top: 16; padding-bottom: 16; background-color: #2B2A33; border-radius: 40; cursor: pointer; }
+  .primary-label { color: #FBF7F0; font-family: nunito; font-size: 24; font-weight: 700; }
+  .secondary { align-items: center; justify-content: center; width: 100%; margin-top: 12; padding-top: 12; padding-bottom: 12; background-color: #FBF7F0; border-radius: 40; border-width: 2; border-color: #2B2A33; cursor: pointer; }
+  .secondary-label { color: #2B2A33; font-family: nunito; font-size: 19; font-weight: 700; }
+</style>
+<div class="root">
+  <div class="title">Palace reviewed</div>
+  <div class="stats">
+    <div class="stat" style="background-color: #C8E6D0"><div id="got-n" class="num">0</div><div class="cap">recalled</div></div>
+    <div class="stat" style="background-color: #F4C7C3"><div id="miss-n" class="num">0</div><div class="cap">missed</div></div>
+  </div>
+  <div id="again" class="primary"><div class="primary-label">Review again</div></div>
+  <div id="over" class="secondary"><div id="over-label" class="secondary-label">Start over</div></div>
+</div>
