@@ -1,0 +1,64 @@
+{
+  "id": "cells",
+  "title": "Inside the Cell",
+  "source": "Biology 101, Chapter 4: Organelles",
+  "style": "flat pastel illustration, clean ink outlines, playful storybook style, single subject, plain off-white background, minimal",
+  "concepts": [
+    {
+      "id": "nucleus",
+      "title": "Nucleus",
+      "explanation": "Control center that stores DNA and directs the cell.",
+      "image": "nucleus.jpg",
+      "prompt": "a giant golden vault shaped like a brain, guarded by a tiny general holding a DNA scroll"
+    },
+    {
+      "id": "mitochondria",
+      "title": "Mitochondria",
+      "explanation": "Powerhouse that turns glucose into ATP energy.",
+      "image": "mitochondria.jpg",
+      "prompt": "a muscular bean wearing boxing gloves punching sugar cubes into glowing lightning bolts"
+    },
+    {
+      "id": "ribosome",
+      "title": "Ribosome",
+      "explanation": "Tiny factory that builds proteins from RNA instructions.",
+      "image": "ribosome.jpg",
+      "prompt": "a small chef made of two dumplings knitting a long chain of colorful beads from a recipe ribbon"
+    },
+    {
+      "id": "er",
+      "title": "Endoplasmic Reticulum",
+      "explanation": "Folded highway network that makes and moves proteins and lipids.",
+      "image": "er.jpg",
+      "prompt": "a twisting rollercoaster of pink ribbon with tiny packages riding the carts"
+    },
+    {
+      "id": "golgi",
+      "title": "Golgi Apparatus",
+      "explanation": "Post office that packages and ships proteins.",
+      "image": "golgi.jpg",
+      "prompt": "a stack of pancakes running a post office, wrapping gifts with bows and stamping them"
+    },
+    {
+      "id": "lysosome",
+      "title": "Lysosome",
+      "explanation": "Recycling crew that digests waste with enzymes.",
+      "image": "lysosome.jpg",
+      "prompt": "a hungry purple bubble with a huge mouth eating old shoes and broken bicycles"
+    },
+    {
+      "id": "membrane",
+      "title": "Cell Membrane",
+      "explanation": "Selective barrier that controls what enters and leaves.",
+      "image": "membrane.jpg",
+      "prompt": "a bouncer made of soap bubbles at a velvet rope, letting only some marbles pass"
+    },
+    {
+      "id": "chloroplast",
+      "title": "Chloroplast",
+      "explanation": "Solar panel of plant cells that makes sugar from light.",
+      "image": "chloroplast.jpg",
+      "prompt": "a green frog in sunglasses sunbathing on a stack of solar panels, sweating sugar cubes"
+    }
+  ]
+}
