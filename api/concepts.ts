@@ -1,2 +1,2 @@
-import { handleConcepts, nodeHandler } from '../server/meta';
+import { handleConcepts, nodeHandler } from '../server/meta.js';
 export default nodeHandler(handleConcepts);
