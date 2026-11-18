@@ -4,6 +4,8 @@
 
 Built for Meta Quest with the [Immersive Web SDK](https://iwsdk.dev). It runs in the browser, in passthrough or in one of the built-in rooms.
 
+**Try it** at [loci-rho-three.vercel.app](https://loci-rho-three.vercel.app) (open it in the Quest Browser, or on a desktop to see the studio).
+
 <p>
   <img src="docs/media/palace.jpg" width="49%" alt="A living room in VR with idea cards placed on the walls, linked by a dotted path">
   <img src="docs/media/review.jpg" width="49%" alt="Reviewing a card: the Nucleus card flipped, with Got it and Missed buttons">
