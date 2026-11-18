@@ -67,3 +67,5 @@ video/public/vo/*
 !video/public/vo/vo.mp3
 public/decks/cells/_orig/
 public/decks/cells/src/
+.vercel
+.env*

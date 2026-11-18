@@ -1,0 +1,5 @@
+{
+  "installCommand": "ONNXRUNTIME_NODE_INSTALL_CUDA=skip npm install --onnxruntime-node-install-cuda=skip",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
